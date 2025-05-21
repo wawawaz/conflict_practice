@@ -1,4 +1,4 @@
 # favorite food
 
 apple
-akasatana
+ringo
